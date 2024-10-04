@@ -56,17 +56,6 @@ Here's an example of how you can use the program:
 - **Search**: Select the search operation you want to perform (M-ary search or BST search).
 - **Evaluate**: Evaluate the search performance using various values of `m` in M-ary search and compare it with the binary search tree.
 
-### File Input Format
-
-If you choose to read the keys from a file, the file should contain one key per line. For example:
-
-```txt
-23
-45
-12
-89
-67
-```
 
 ## Future Enhancements
 
